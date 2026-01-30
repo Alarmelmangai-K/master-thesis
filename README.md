@@ -58,9 +58,4 @@ This project addresses this challenge by combining predictive modeling with expl
 ---
 
 ## 📁 Repository Structure
-master-thesis/
-├── notebooks/
-│ └── final_explainable_ai_model.ipynb
-├── figures/
-├── README.md
-└── requirements.txt
+
