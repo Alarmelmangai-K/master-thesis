@@ -58,4 +58,13 @@ This project addresses this challenge by combining predictive modeling with expl
 ---
 
 ## 📁 Repository Structure
+master-thesis/
+├── README.md
+├──clinivar_mutations_final.py 
+├── requirements.txt
+├── notebooks/
+│   ├── README.md
+│   └── clinivar_mutation_final.py      
+├── archive/
+│   ├── old_experiments.ipynb
 
